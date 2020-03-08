@@ -2,7 +2,7 @@ const config = {
 	user: 'user0',
 	password: 'user0',
 	server: 'localhost',
-	database: 'userdb',
+	database: 'user_db',
 	port: '1433'
 }
 
